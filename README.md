@@ -4,7 +4,7 @@
 
 This sample illustrates how to change the hover color for the TreeViewItem in SfTreeView.
 
-In [WPF TreeView](https://www.syncfusion.com/wpf-controls/treeview?_gl=1*1h0iuid*_ga*odqzmzc0ode1lje3ndcymzc2mjg.*_ga_41j4hfmx1j*cze3ntqznjy3mdgkbziwnsrnmsr0mtc1ndm2odm2nsrqnjakbdakada.), when the mouse is hovered on the items, it will be highlighted in gray color by default. You can change the mouse hover color for the items by writing style for the items using the target type [TreeViewItem](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.TreeView.TreeViewItem.html?_gl=1*1h0iuid*_ga*ODQzMzc0ODE1LjE3NDcyMzc2Mjg.*_ga_41J4HFMX1J*czE3NTQzNjY3MDgkbzIwNSRnMSR0MTc1NDM2ODM2NSRqNjAkbDAkaDA.).
+In [WPF TreeView](https://www.syncfusion.com/wpf-controls/treeview), when the mouse is hovered on the items, it will be highlighted in gray color by default. You can change the mouse hover color for the items by writing style for the items using the target type [TreeViewItem](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.TreeView.TreeViewItem.html).
 
 ```Xaml
 <Window.Resources>
